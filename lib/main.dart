@@ -37,6 +37,21 @@ class SocialTimeline extends StatelessWidget {
       handle: '@jane_smith',
       text: 'Hello, Flutter world!',
     ),
+    Social(
+      username: 'Jane Smith',
+      handle: '@jane_smith',
+      text: 'Hello, Flutter world!',
+    ),
+    Social(
+      username: 'Jane Smith',
+      handle: '@jane_smith',
+      text: 'Hello, Flutter world!',
+    ),
+    Social(
+      username: 'Jane Smith',
+      handle: '@jane_smith',
+      text: 'Hello, Flutter world!',
+    ),
     // Add more mock tweets as needed
   ];
 
